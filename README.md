@@ -15,5 +15,8 @@ There are two LED outputs: COIN LED and VEND LED. The COIN LED lights up when a 
 ![WhatsApp Image 2025-02-27 at 10 38 43 AM](https://github.com/user-attachments/assets/a3f59bab-8b54-4c08-bf15-57e35b20c829)
 The machine will not vend an item unless a coin has been inserted first. Only one coin can be inserted at a time, and inserting additional coins does not affect the circuit’s state. Normally, a vending machine resets automatically after dispensing an item, but for simplicity, this design requires a manual reset instead.
 
+# References 
+Justice, M. (2020). How Computers Really Work: A Hands-On Guide to the Inner Workings of the Machine. No Starch Press.
+
 
 
